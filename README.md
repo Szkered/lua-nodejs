@@ -12,7 +12,7 @@ npm install
 
 Install Lua tools:
 ```
-sudo apt-get install lua5.2 liblua5.2 luarockt
+sudo apt-get install lua5.2 liblua5.2 luarocks
 sudo luarocks install luastatic
 ```
 
