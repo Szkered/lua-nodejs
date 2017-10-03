@@ -1,0 +1,9 @@
+## Get-started
+
+
+Install Lua tools:
+```
+sudo apt-get install lua5.2 liblua5.2 luarockt
+sudo luarocks install luastatic
+luastatic main.lua /usr/lib/x86_64-linux-gnu/liblua5.2.a -I/usr/include/lua5.2
+```
